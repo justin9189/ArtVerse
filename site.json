@@ -1,0 +1,14 @@
+{
+  "name": "Justin’s ArtVerse",
+  "tagline": "Illustrations drawn in Procreate.\nEvery piece is a star.",
+  "bio": "Hi, I’m Justin. I draw on my iPad in Procreate.\nReplace this with a few lines about what you draw, what inspires you, and what you’re working on now.",
+  "description": "Illustrations by Justin, drawn in Procreate.",
+  "email": "",
+  "links": [
+    { "label": "Instagram", "url": "" },
+    { "label": "", "url": "" }
+  ],
+  "accent": "#A78BFA",
+  "defaultMedium": "Procreate",
+  "featured": []
+}
